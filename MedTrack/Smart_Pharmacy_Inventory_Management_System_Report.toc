@@ -1,0 +1,61 @@
+\contentsline {chapter}{Certificate}{i}{chapter*.1}%
+\contentsline {chapter}{Declaration}{ii}{chapter*.2}%
+\contentsline {chapter}{Acknowledgement}{iii}{chapter*.3}%
+\contentsline {chapter}{Abstract}{iv}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.5}%
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.6}%
+\contentsline {section}{\numberline {1.2}Motivation}{2}{section.7}%
+\contentsline {section}{\numberline {1.3}Problem Statement}{2}{section.8}%
+\contentsline {section}{\numberline {1.4}Objectives}{3}{section.9}%
+\contentsline {section}{\numberline {1.5}Scope of Project}{3}{section.10}%
+\contentsline {section}{\numberline {1.6}Existing System}{4}{section.11}%
+\contentsline {section}{\numberline {1.7}Proposed System}{4}{section.12}%
+\contentsline {section}{\numberline {1.8}Advantages}{5}{section.13}%
+\contentsline {section}{\numberline {1.9}Organization of Report}{5}{section.14}%
+\contentsline {chapter}{\numberline {2}System Requirements Specification}{7}{chapter.15}%
+\contentsline {section}{\numberline {2.1}Hardware Requirements}{7}{section.16}%
+\contentsline {section}{\numberline {2.2}Software Requirements}{7}{section.18}%
+\contentsline {section}{\numberline {2.3}Functional Requirements}{8}{section.20}%
+\contentsline {section}{\numberline {2.4}Non-Functional Requirements}{9}{section.22}%
+\contentsline {section}{\numberline {2.5}Feasibility Study}{10}{section.23}%
+\contentsline {subsection}{\numberline {2.5.1}Technical Feasibility}{10}{subsection.24}%
+\contentsline {subsection}{\numberline {2.5.2}Economic Feasibility}{10}{subsection.25}%
+\contentsline {subsection}{\numberline {2.5.3}Operational Feasibility}{10}{subsection.26}%
+\contentsline {subsection}{\numberline {2.5.4}Schedule Feasibility}{11}{subsection.27}%
+\contentsline {chapter}{\numberline {3}System Design}{12}{chapter.28}%
+\contentsline {section}{\numberline {3.1}System Architecture}{12}{section.29}%
+\contentsline {section}{\numberline {3.2}Use Case Diagram}{13}{section.31}%
+\contentsline {section}{\numberline {3.3}ER Diagram}{13}{section.33}%
+\contentsline {section}{\numberline {3.4}Data Flow Diagram}{14}{section.35}%
+\contentsline {section}{\numberline {3.5}Database Design}{15}{section.37}%
+\contentsline {section}{\numberline {3.6}Module Description}{16}{section.38}%
+\contentsline {subsection}{\numberline {3.6.1}Admin Module}{16}{subsection.39}%
+\contentsline {subsection}{\numberline {3.6.2}Employee Module}{16}{subsection.40}%
+\contentsline {subsection}{\numberline {3.6.3}Billing Module}{17}{subsection.41}%
+\contentsline {subsection}{\numberline {3.6.4}Customer Module}{17}{subsection.42}%
+\contentsline {subsection}{\numberline {3.6.5}Inventory Module}{17}{subsection.43}%
+\contentsline {subsection}{\numberline {3.6.6}Delivery Tracking Module}{18}{subsection.44}%
+\contentsline {subsection}{\numberline {3.6.7}Reports Module}{18}{subsection.45}%
+\contentsline {chapter}{\numberline {4}Implementation}{19}{chapter.46}%
+\contentsline {section}{\numberline {4.1}Frontend Implementation}{19}{section.47}%
+\contentsline {section}{\numberline {4.2}Backend Implementation}{19}{section.48}%
+\contentsline {section}{\numberline {4.3}Database Connectivity}{20}{section.49}%
+\contentsline {section}{\numberline {4.4}Login Authentication}{20}{section.50}%
+\contentsline {section}{\numberline {4.5}Billing Flow}{21}{section.51}%
+\contentsline {section}{\numberline {4.6}Inventory Management}{21}{section.52}%
+\contentsline {section}{\numberline {4.7}Customer Ordering}{22}{section.53}%
+\contentsline {section}{\numberline {4.8}Delivery Management}{22}{section.54}%
+\contentsline {section}{\numberline {4.9}Reports Generation}{22}{section.55}%
+\contentsline {chapter}{\numberline {5}Testing}{24}{chapter.56}%
+\contentsline {section}{\numberline {5.1}Unit Testing}{24}{section.57}%
+\contentsline {section}{\numberline {5.2}Integration Testing}{24}{section.58}%
+\contentsline {section}{\numberline {5.3}System Testing}{25}{section.59}%
+\contentsline {section}{\numberline {5.4}Validation Testing}{25}{section.60}%
+\contentsline {section}{\numberline {5.5}Test Cases}{25}{section.61}%
+\contentsline {section}{\numberline {5.6}Result Analysis}{26}{section.62}%
+\contentsline {chapter}{\numberline {6}Results and Discussion}{27}{chapter.63}%
+\contentsline {section}{\numberline {6.1}Screenshot Placeholders}{28}{section.64}%
+\contentsline {chapter}{\numberline {7}Conclusion and Future Enhancements}{33}{chapter.78}%
+\contentsline {section}{\numberline {7.1}Conclusion}{33}{section.79}%
+\contentsline {section}{\numberline {7.2}Future Enhancements}{33}{section.80}%
+\contentsline {chapter}{References}{35}{chapter*.81}%
